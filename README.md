@@ -30,11 +30,11 @@ Feng Liu，Ran Xu, Jieying Zheng, Qiuli Lin, Zongliang Gan,Anchored Neighborhood
 
 For **aligned face photos:**
 
-<img src='Images/Results.bmp' align="right" width=1000>
+<img src='Images/Results.bmp' align="right"/>
 
 For the **real-world photos:**
 
-<img src='Images/Results-in-wild.bmp' align="right" width=1000>
+<img src='Images/Results-in-wild.bmp' align="right" />
 
 
 ## Run
