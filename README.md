@@ -30,11 +30,12 @@ Feng Liu，Ran Xu, Jieying Zheng, Qiuli Lin, Zongliang Gan,Anchored Neighborhood
 
 For **aligned face photos:**
 
-![Alt](https://raw.githubusercontent.com/SharonXuran/ANS-GDA-For-Face-Photo-Sketch-Synthesis/blob/master/Images/Results.bmp)
+<img src='Images/Results.bmp' align="right" width=1000>
 
 For the **real-world photos:**
 
-![Alt](https://raw.githubusercontent.com/SharonXuran/ANS-GDA-For-Face-Photo-Sketch-Synthesis/blob/master/Images/Results-in-wild.bmp)
+<img src='Images/Results-in-wild.bmp' align="right" width=1000>
+
 
 ## Run
 
